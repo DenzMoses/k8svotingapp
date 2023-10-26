@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/kustomization.json": "file:///home/user/Desktop/K8S/Votingapp/votingapp.yaml"
+    }
+}
